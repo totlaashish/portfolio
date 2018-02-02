@@ -222,7 +222,7 @@ webpackJsonp([1, 0], [function(t, e, i) {
             description: "Work is a substitute religious experience for many workaholics",
             apps: [{
                 number: "01.",
-                other: "images/teaching.jpg",
+                other: "pdf/LNMExperience.pdf",
                 image: "images/teaching.jpg",
                 title: "Academic Experience",
                 description: "1. Teaching Assistant in The LNM Institute of Information\n Technology during July 2014 – May 2016.\n\n2.Faculty Member in ECE department at MaNAV CLASSES,\n Alwar (Rajasthan) During Aug 2012- Jun 2014.\n\n3.Teaching Assistant in Modern Institute of Technology\n and Research Centre, Alwar (Rajasthan) during July 2011- May 2012"

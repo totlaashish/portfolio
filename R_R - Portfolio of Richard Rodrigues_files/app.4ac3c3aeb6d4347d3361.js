@@ -188,7 +188,7 @@ webpackJsonp([1, 0], [function(t, e, i) {
             }, {
                 number: "02.",
                 other: "pdf/M.TechCourse.pdf",
-                image: "images/MtechProject.jpg",
+                image: "images/MtechProject.jpeg",
                 title: "M.Tech. Course Project",
                 description: "Performance Improvement of DS-CDMA System with Successive Interference Cancellation Receiver."
             }, {

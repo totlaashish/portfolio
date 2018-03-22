@@ -114,8 +114,20 @@ webpackJsonp([1, 0], [function(t, e, i) {
                 image: "images/antenna.png",
                 title: "Micro-Strip Antenna",
                 description: "Newly Proposed Multi-band Rectangular Patch Antenna with Defected Ground Structure” published in 39th PIERS, going to be held in NTU, Singapore during Nov. 2017"
-            }, {
+            },{
                 number: "02.",
+                other: "pdf/C-Band.pdf",
+                image: "images/antenna.png",
+                title: "C-Band Microstrip Band Pass Filter",
+                description: ""
+            },{
+                number: "03.",
+                other: "pdf/Multi-Band.pdf",
+                image: "images/antenna.png",
+                title: "Multi-Band Rectangular Patch antenna",
+                description: "Newly Proposed Multi-band Rectangular Patch Antenna with Defected Ground Structure” published in 39th PIERS, going to be held in NTU, Singapore during Nov. 2017"
+            },{
+                number: "04.",
                 other: "pdf/odfma.pdf",
                 image: "images/ofdma.png",
                 title: "OFDMA",

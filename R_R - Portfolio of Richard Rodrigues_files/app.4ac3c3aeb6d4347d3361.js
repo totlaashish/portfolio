@@ -125,7 +125,7 @@ webpackJsonp([1, 0], [function(t, e, i) {
                 other: "pdf/Multi-Band.pdf",
                 image: "images/antenna.png",
                 title: "Multi-Band Rectangular Patch antenna",
-                description: "Newly Proposed Multi-band Rectangular Patch Antenna with Defected Ground Structure” published in 39th PIERS, going to be held in NTU, Singapore during Nov. 2017"
+                description: ""
             },{
                 number: "04.",
                 other: "pdf/odfma.pdf",
